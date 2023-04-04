@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/calyx_bronco.mk \
     $(LOCAL_DIR)/lineage_bronco.mk
